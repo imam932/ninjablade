@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5629d047fa2c88444b12ad5fdf34cb15
+timeCreated: 1490102557
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: y.n.w.u.a.y
+  fontNames:
+  - y.n.w.u.a.y
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
